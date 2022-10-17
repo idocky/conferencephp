@@ -1,0 +1,18 @@
+.header{
+    margin-bottom: 100px;
+}
+
+#map{
+    height: 400px;
+    width: 1110px;
+}
+
+#adress{
+    margin-bottom: 50px;
+}
+
+#info{
+    height: 200px;
+    width: 500px;
+    background-color: gray;
+}
