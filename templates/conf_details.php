@@ -52,6 +52,6 @@ foreach ($conference as $conf){
 
 </div>
 <script src="../src/disabledMap.js"></script>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDJNJv5qPmlb7rwvToGcE-njYYySbCJyts&callback=initMap" async defer></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaS5qPmlb7rcE-njYYySbCJyts&callback=initMap" async defer></script>
 
 <?php require_once 'footer.php'; ?>
