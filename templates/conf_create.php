@@ -57,7 +57,7 @@ require_once 'app/view/alert.php';
 
     </div>
     <script src="../src/activeMap.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDJNJv5qPmlb7rwvToGcE-njYYySbCJyts&callback=initMap" async defer></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=&callback=initMap" async defer></script>
 
 
 <?php
