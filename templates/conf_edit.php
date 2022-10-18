@@ -92,7 +92,7 @@ foreach ($conference as $conf){
 
     </div>
     <script src="../src/activeForEdit.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDJNJv5qPmlb7rwvToGcE-njYYySbCJyts&callback=initMap" async defer></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDJNJToGcE-njYYySbCJyts&callback=initMap" async defer></script>
 <?php
 require_once 'footer.php';
 
